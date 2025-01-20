@@ -1,4 +1,4 @@
-#CRUD MongoDB
+# CRUD MongoDB
 ## Objetivo
 El objetivo del ejercicio es que se desarrolle una pequeña aplicación
 que interactúe con un usuario por consola para la gestión de juegos.
